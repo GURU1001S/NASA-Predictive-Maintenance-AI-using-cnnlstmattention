@@ -1,0 +1,15 @@
+# Environments
+.venv/
+venv/
+__pycache__/
+
+# Datasets
+*.txt
+*.csv
+
+# Model Weights
+*.pth
+*.pt
+
+# IDE
+.idea/
